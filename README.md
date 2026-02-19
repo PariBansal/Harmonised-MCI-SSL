@@ -1,3 +1,11 @@
+![Conference](https://img.shields.io/badge/Conference-ICASS%202026-blue)
+![Status](https://img.shields.io/badge/Status-Accepted-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Medical AI](https://img.shields.io/badge/Domain-Medical%20AI-purple)
+![SSL](https://img.shields.io/badge/Method-Self%20Supervised%20Learning-orange)
+![Multimodal](https://img.shields.io/badge/Approach-Multimodal%20Fusion-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # 🧠 Harmonised MCI-SSL  
 Early Detection and Classification of Alzheimer’s Disease using Multimodal Learning & Domain Harmonisation  
 
